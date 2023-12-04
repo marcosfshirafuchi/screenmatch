@@ -67,10 +67,10 @@ Aulas
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Cadastrar filmes no site.
-:heavy_check_mark: `Funcionalidade 2:`Listar os filmes cadastrado no site.
-:heavy_check_mark: `Funcionalidade 3:`Editar os filmes cadastrado no site.
-:heavy_check_mark: `Funcionalidade 4:`Apagar os filmes cadastrado no site.
+:heavy_check_mark: `Funcionalidade 1:` Cadastrar filmes no site.<br><br>
+:heavy_check_mark: `Funcionalidade 2:`Listar os filmes cadastrado no site.<br><br>
+:heavy_check_mark: `Funcionalidade 3:`Editar os filmes cadastrado no site.<br><br>
+:heavy_check_mark: `Funcionalidade 4:`Apagar os filmes cadastrado no site.<br><br>
 
 ## Aplicação
 
