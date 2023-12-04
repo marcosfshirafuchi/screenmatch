@@ -1,4 +1,4 @@
-# Curso de Java e Spring: desenvolva sua primeira aplição Web
+# Curso de Java e Spring: desenvolva sua primeira aplicação Web
 Curso de Java e Spring da Alura - desenvolva sua primeira aplicação Web 
 
 
